@@ -1,0 +1,34 @@
+
+body{
+    margin:50px 100px;
+    color: white;
+    background-color: #141414;
+    
+    }
+    
+    nav{
+        display: flex;
+        justify-content: space-between;
+        font-size: 28px;
+    }
+    a{
+        color: white;
+        text-decoration: none;
+    }
+    img{
+        width: 500px;
+        height: 300px;
+    }
+    
+    .componenta{
+        margin-top: 50px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 50px;
+    }
+    .text{
+        margin-right: 30px;
+        font-size: 28px;
+        text-indent: 20px;
+    }

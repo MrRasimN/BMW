@@ -1,0 +1,38 @@
+
+body{
+    margin:50px 100px;
+    color: white;
+    background-color: #141414;
+    
+    }
+    
+    nav{
+        display: flex;
+        justify-content: space-between;
+        font-size: 28px;
+    }
+    a{
+        color: white;
+        text-decoration: none;
+    }
+    h1{
+        text-align: center;
+    }
+    ul li{
+        font-size: 28px;
+    }
+    img{
+        width: 430px;
+        height: 300px;
+        margin-left: 30px;
+    }
+    .car{
+        margin-bottom: 50px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .componenta{
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
